@@ -1,0 +1,12 @@
+{
+  "name":"cluster",
+  "children":[
+    {"name":"1","size":1,"Coordinate":[[20,30],[40,30]]},
+    {"name":"2","size":2,"Coordinate":[[20,30],[48,30]]},
+    {"name":"2","size":2,"Coordinate":[[50,30],[40,30]]},
+    {"name":"3","size":3,"Coordinate":[[20,20],[40,30]]},
+    {"name":"4","size":4,"Coordinate":[[20,30],[40,30]]},
+    {"name":"6","size":6,"Coordinate":[[24,30],[40,38]]},
+    {"name":"6too","size":6,"Coordinate":[[20,30],[50,39]]}
+  ]
+}
